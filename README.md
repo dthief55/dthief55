@@ -2,7 +2,7 @@
 
 My name is **Gabriel Fernando**.
 
-If you interest to know me more, let follow my account [Linkedin](www.linkedin.com/in/gabrielf19).
+If you interest to know me more, let follow my account <a href="www.linkedin.com/in/gabrielf19">LinkedIn</a>
 
 <p align="left">
 <a href="https://github.com/dthief55">
